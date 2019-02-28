@@ -51,3 +51,4 @@ A small exercise: calculate number of seconds lived instead of months!
 age = int(input('Enter your age: '))
 seconds = age * 365 * 24 * 60 * 60
 print(f'You have lived for {seconds} seconds.')
+
