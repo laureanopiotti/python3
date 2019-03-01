@@ -1,6 +1,3 @@
-# Complete Python Course — Jose Salvatierra
-# Link: 
-
 """
 We use input() to present the user with a prompt.
 They can then type, and when they press Enter everything they typed gets returned.

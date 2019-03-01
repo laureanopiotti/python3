@@ -1,6 +1,3 @@
-# Complete Python Course — Jose Salvatierra
-# Link: 
-
 """
 A Boolean is a true/false, yes/no, one/zero value.
 We can use it to make decisions.
