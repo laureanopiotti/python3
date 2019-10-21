@@ -40,10 +40,10 @@
         },
         "jinja2": {
             "hashes": [
-                "sha256:74c935a1b8bb9a3947c50a54766a969d4846290e1e788ea44c1392163723c3bd",
-                "sha256:f84be1bb0040caca4cea721fcbbbbd61f9be9464ca236387158b0feea01914a4"
+                "sha256:74320bb91f31270f9551d46522e33af46a80c3d619f4a4bf42b3164d30b5911f",
+                "sha256:9fe95f19286cfefaa917656583d020be14e7859c6b0252588391e47db34527de"
             ],
-            "version": "==2.10"
+            "version": "==2.10.3"
         },
         "markupsafe": {
             "hashes": [
@@ -80,10 +80,11 @@
         },
         "werkzeug": {
             "hashes": [
-                "sha256:590abe38f8be026d78457fe3b5200895b3543e58ac3fc1dd792c6333ea11af64",
-                "sha256:ee11b0f0640c56fb491b43b38356c4b588b3202b415a1e03eacf1c5561c961cf"
+                "sha256:97660b282aa7e29f94f3fe378e5c7162d7ab9d601a8dbb1cbb2ffc8f0e54607d",
+                "sha256:cfd1281b1748288e59762c0e174d64d8bcb2b70e7c57bc4a1203c8825af24ac3"
             ],
-            "version": "==0.15.0"
+            "index": "pypi",
+            "version": "==0.15.3"
         }
     },
     "develop": {}
